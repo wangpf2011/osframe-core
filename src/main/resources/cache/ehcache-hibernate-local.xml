@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ehcache updateCheck="false" name="hibernateCache">
+
+	<diskStore path="java.io.tmpdir/jess/ehcache/hibernate" />
+
+	<!-- DefaultCache setting. -->
+	<defaultCache maxEntriesLocalHeap="100" eternal="false" timeToIdleSeconds="300" timeToLiveSeconds="600" 
+		overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	
+	<cache name="com.lnint.jess.core.sys.entity.Dict" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	
+	<cache name="com.lnint.jess.core.sys.entity.Area" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	<cache name="com.lnint.jess.core.sys.entity.Area.childList" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	<cache name="com.lnint.jess.core.sys.entity.Area.officeList" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	
+	<cache name="com.lnint.jess.core.sys.entity.Office" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	<cache name="com.lnint.jess.core.sys.entity.Office.childList" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	<cache name="com.lnint.jess.core.sys.entity.Office.userList" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	
+	<cache name="com.lnint.jess.core.sys.entity.Menu" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	<cache name="com.lnint.jess.core.sys.entity.Menu.childList" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	<cache name="com.lnint.jess.core.sys.entity.Menu.roleList" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	
+	<cache name="com.lnint.jess.core.sys.entity.Role" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	<cache name="com.lnint.jess.core.sys.entity.Role.menuList" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	<cache name="com.lnint.jess.core.sys.entity.Role.userList" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	
+	<cache name="com.lnint.jess.core.sys.entity.User" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	<cache name="com.lnint.jess.core.sys.entity.User.roleList" maxEntriesLocalHeap="100" eternal="false" overflowToDisk="true" maxEntriesLocalDisk="100000" />
+	
+</ehcache>
