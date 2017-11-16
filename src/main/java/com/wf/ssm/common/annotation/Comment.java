@@ -11,13 +11,12 @@ import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
-
 /**
  * <P>entity层，字段注释说明 注解<br>
  *+实现entity字段注释说明的注解<br>
  *+使用： (name ="字段注释说明",dictType = "dict_name"，oid="User.id") </P>
  * @version 1.0
- * @author 王磊 2015-03-15 12:02:25
+ * @author wangpf 2015-03-15 12:02:25
  * @since JDK 1.6
  */
 @Target({ElementType.FIELD, ElementType.TYPE})

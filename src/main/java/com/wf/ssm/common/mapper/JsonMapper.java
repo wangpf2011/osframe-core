@@ -4,10 +4,6 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
-import javax.script.ScriptEngine;
-import javax.script.ScriptEngineManager;
-import javax.script.ScriptException;
-
 import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -33,7 +29,7 @@ import com.google.common.collect.Maps;
  * 封装不同的输出风格, 使用不同的builder函数创建实例.</p>
  * 
  * @version 1.0 
- * @author 严娜  2015-03-11 15:50:00
+ * @author wangpf  2015-03-11 15:50:00
  * @since JDK 1.6
  */
 public class JsonMapper extends ObjectMapper {

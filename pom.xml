@@ -95,9 +95,6 @@
 		</repository>
 	</repositories>	
 	
-	<pluginRepositories> 
-	</pluginRepositories> 
-	
 	<!-- 依赖项定义 -->
 	<dependencies>
 		<dependency>

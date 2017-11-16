@@ -15,7 +15,7 @@ import org.springframework.jmx.export.annotation.ManagedResource;
  * 通常使用JMX来监控系统的运行状态或管理系统的某些方面，比如清空缓存、重新加载配置文件等</p>
  * 
  * @version 1.0 
- * @author 严娜  2015-03-11 11:22:00
+ * @author wangpf  2015-03-11 11:22:00
  * @since JDK 1.6
  */
 

@@ -22,7 +22,7 @@ import com.google.common.collect.Maps;
  * 
  * 详情见wiki: https://github.com/springside/springside4/wiki/HibernateValidator</p>
  * @version 1.0
- * @author 严娜  2015-03-11 10:40:00
+ * @author wangpf  2015-03-11 10:40:00
  * @since JDK 1.6
  */
 public class BeanValidators {

@@ -10,7 +10,7 @@ import com.wf.ssm.common.persistence.mybatis.dialect.Dialect;
 
 /**
  * <P>DB2的分页数据库方言实现</P> 
- * @author poplar.yfyang
+ * @author wangpf
  * @version 1.0 2010-10-10 下午12:31
  * @since JDK 1.5
  */

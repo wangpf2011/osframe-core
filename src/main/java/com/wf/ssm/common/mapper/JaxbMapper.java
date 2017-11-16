@@ -28,7 +28,7 @@ import com.wf.ssm.common.utils.StringUtils;
  * 特别支持Root对象是Collection的情形.</p>
  * 
  * @version 1.0 
- * @author 严娜  2015-03-11 15:00:00
+ * @author wangpf  2015-03-11 15:00:00
  * @since JDK 1.6
  */
 @SuppressWarnings("rawtypes")

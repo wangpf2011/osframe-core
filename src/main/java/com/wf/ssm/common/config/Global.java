@@ -15,7 +15,7 @@ import com.wf.ssm.common.utils.StringUtils;
  * <p>全局配置类 </br>
  * 获取JESS.properties配置文件中的属性值</p>
  * @version 1.0
- * @author 严娜    2015-03-11 9:40:00
+ * @author wangpf 2015-03-11 9:40:00
  * @since JDK 1.6
  */
 public class Global {

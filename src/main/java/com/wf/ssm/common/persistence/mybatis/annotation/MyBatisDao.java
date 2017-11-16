@@ -22,7 +22,7 @@ import org.springframework.stereotype.Component;
  * </P>
  * <P>注解用法：@MyBatisDao </P>
  * @version 1.0
- * @author 王磊 2015-02-09 11:55:39
+ * @author wangpf 2015-02-09 11:55:39
  * @since JDK 1.6
  */
 @Retention(RetentionPolicy.RUNTIME)//修饰注解的元注解
