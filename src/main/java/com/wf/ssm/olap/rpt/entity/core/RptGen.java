@@ -24,7 +24,7 @@ import com.wf.ssm.core.sys.entity.Office;
  * <P>生成报表Entity</P>
  *
  * @version 1.0
- * @author 严娜 2015-11-27
+ * @author wangpf 2015-11-27
  * @since JDK 1.6
  */
 @Entity

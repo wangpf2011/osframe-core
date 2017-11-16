@@ -24,7 +24,7 @@ import com.wf.ssm.core.sys.entity.User;
  * <P>Service基类</P>
  * 
  * @version 1.0
- * @author 王朋飞  2015-03-12 12:02:25
+ * @author wangpf  2015-03-12 12:02:25
  * @since JDK 1.6
  */
 public abstract class BaseService {

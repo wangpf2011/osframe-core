@@ -18,6 +18,7 @@ import com.wf.ssm.common.persistence.mybatis.CrudDao;
 
 /**
  * Service基类
+ * @author wangpf
  * @version 2014-05-16
  */
 @Transactional(readOnly = true)

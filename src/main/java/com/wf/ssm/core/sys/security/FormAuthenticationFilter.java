@@ -16,7 +16,7 @@ import org.springframework.stereotype.Service;
 /**
  * <P>表单验证（包含验证码）过滤类</P>
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Service

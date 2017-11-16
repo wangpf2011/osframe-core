@@ -20,7 +20,7 @@ import com.wf.ssm.common.utils.Exceptions;
  * 支持Hex与Base64两种编码方式.</p>
  * 
  * @version 1.0 
- * @author 严娜  2015-03-12 8:30:00
+ * @author wangpf  2015-03-12 8:30:00
  * @since JDK 1.6
  */
 public class Cryptos {

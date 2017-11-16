@@ -15,7 +15,7 @@ import org.apache.commons.lang3.time.DateFormatUtils;
  * <P>时间计算工具类</P>
  * 
  * @version 1.0
- * @author 王朋飞 2015-3-26 9:06:26
+ * @author wangpf 2015-3-26 9:06:26
  * @since JDK 1.6
  */
 public class TimeUtils {

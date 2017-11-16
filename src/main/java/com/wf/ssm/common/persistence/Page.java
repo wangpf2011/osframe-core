@@ -23,7 +23,7 @@ import com.wf.ssm.common.utils.CookieUtils;
  * 定义了分页基础属性（当前页码,上一页,下一页,分页结果数据等)<br>
  * </p> 
  * @version 1.0
- * @author 王磊 2015-03-11 12:02:25
+ * @author wangpf 2015-03-11 12:02:25
  * @since JDK 1.6
  */
 public class Page<T> {

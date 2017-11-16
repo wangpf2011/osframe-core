@@ -23,7 +23,7 @@ import org.springframework.util.Assert;
  * <P>反射工具类,提供调用getter/setter方法, 访问私有变量, 调用私有方法, 获取泛型类型Class, 被AOP过的真实类等工具函数</P>
  * 
  * @version 1.0
- * @author 赵庆辉 2015-3-12 9:06:26
+ * @author wangpf 2015-3-12 9:06:26
  * @since JDK 1.6
  */
 @SuppressWarnings("rawtypes")

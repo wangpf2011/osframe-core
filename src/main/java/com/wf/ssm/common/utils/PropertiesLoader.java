@@ -24,7 +24,7 @@ import org.springframework.core.io.ResourceLoader;
  * <P>Properties文件载入工具类. 可载入多个properties文件, 相同的属性在最后载入的文件中的值将会覆盖之前的值，但以System的Property优先.</P>
  * 
  * @version 1.0
- * @author 赵庆辉 2015-3-12 9:06:26
+ * @author wangpf 2015-3-12 9:06:26
  * @since JDK 1.6
  */
 public class PropertiesLoader {

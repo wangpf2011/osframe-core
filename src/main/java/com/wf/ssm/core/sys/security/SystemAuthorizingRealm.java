@@ -43,7 +43,7 @@ import com.wf.ssm.core.sys.web.LoginController;
 /**
  * <P>系统安全认证实现类</P>
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Service

@@ -11,7 +11,7 @@ import org.apache.shiro.authc.AuthenticationException;
 /**
  * <P>验证码异常处理类</P>
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 public class CaptchaException extends AuthenticationException {

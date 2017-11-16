@@ -19,6 +19,7 @@ import com.wf.ssm.core.sys.entity.User;
 
 /**
  * Service基类
+ * @author wangpf
  * @version 2014-05-16
  */
 @Transactional(readOnly = true)

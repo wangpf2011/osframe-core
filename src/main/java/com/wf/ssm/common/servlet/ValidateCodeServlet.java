@@ -27,7 +27,7 @@ import org.apache.commons.lang3.StringUtils;
  * <P>一个servlet，生成随机验证码（登录验证码、内容评论、留言板留言）</P>
  * 
  * @version 1.0
- * @author 王朋飞  2015-03-12 12:02:25
+ * @author wangpf  2015-03-12 12:02:25
  * @since JDK 1.6
  */
 @SuppressWarnings("serial")

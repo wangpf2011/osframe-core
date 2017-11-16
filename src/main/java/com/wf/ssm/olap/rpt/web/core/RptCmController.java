@@ -58,7 +58,7 @@ import freemarker.template.TemplateExceptionHandler;
  * 报表模板维护Controller
  *
  * @version 1.0
- * @author 严娜 2015-11-10
+ * @author wangpf 2015-11-10
  * @since JDK 1.6
  */
 @Controller

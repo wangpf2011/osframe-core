@@ -40,7 +40,7 @@ import com.wf.ssm.core.sys.utils.UserUtils;
 /**
  * <P>系统管理，安全相关实体的管理类,包括用户、角色、菜单.</P>
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Service

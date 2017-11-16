@@ -16,7 +16,7 @@ import org.apache.ibatis.session.SqlSession;
  *  自定义Mybatis映射注册类MapperRegistry,提供给PageConfiguration注册类使用.
  * </p>
  *
- * @author 王磊 2015-03-10 11:55:39
+ * @author wangpf 2015-03-10 11:55:39
  * @version 1.0 
  * @since JDK 1.5
  */

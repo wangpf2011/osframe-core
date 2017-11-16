@@ -31,7 +31,7 @@ import com.wf.ssm.common.utils.SpringContextHolder;
  * <P>字符串工具类, 继承org.apache.commons.lang3.StringUtils类</P>
  * 
  * @version 1.0
- * @author 赵庆辉 2015-3-12 9:06:26
+ * @author wangpf 2015-3-12 9:06:26
  * @since JDK 1.6
  */
 public class StringUtils extends org.apache.commons.lang3.StringUtils {

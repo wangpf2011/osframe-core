@@ -29,7 +29,7 @@ import java.util.Map;
  * <p>
  * MapperProxy关联到了这个类，MapperRegistry又关联到了MapperProxy，
  * </p>
- * @author 王磊 2015-03-09 11:55:39
+ * @author wangpf 2015-03-09 11:55:39
  * @version 1.0 
  * @since JDK 1.5
  */

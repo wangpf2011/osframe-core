@@ -42,7 +42,7 @@ import com.wf.ssm.core.sys.utils.UserUtils;
  * +扩展封装了数据库共通字段信息属性(备注.创建日期.创建者.删除标记等信息)<br>
  * </p> 
  * @version 1.0
- * @author 王磊 2015-03-11 12:02:25
+ * @author wangpf 2015-03-11 12:02:25
  * @since JDK 1.6
  */
 @MappedSuperclass

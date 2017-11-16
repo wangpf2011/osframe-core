@@ -15,7 +15,7 @@ import com.wf.ssm.olap.rpt.entity.core.RptCm;
  * 报表模板维护DAO接口
  *
  * @version 1.0
- * @author 严娜 2015-11-10
+ * @author wangpf 2015-11-10
  * @since JDK 1.6
  */
 @Repository

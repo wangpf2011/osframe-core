@@ -32,11 +32,10 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-
 /**
  * <P>Mybatis数据库，SQL工具类</P>
  * @version 1.0
- * @author 王磊 2015-02-09 11:55:39
+ * @author wangpf 2015-02-09 11:55:39
  * @since JDK 1.6
  */
 public class SQLHelper {

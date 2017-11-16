@@ -22,7 +22,7 @@ import com.wf.ssm.olap.rpt.entity.core.RptGen;
  * 生成报表DAO接口
  *
  * @version 1.0
- * @author 严娜 2015-11-27
+ * @author wangpf 2015-11-27
  * @since JDK 1.6
  */
 @Repository

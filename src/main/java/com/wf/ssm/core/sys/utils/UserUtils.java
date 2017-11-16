@@ -41,7 +41,7 @@ import com.wf.ssm.core.sys.security.SystemAuthorizingRealm.Principal;
 /**
  * 用户工具类
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 public class UserUtils extends BaseService {

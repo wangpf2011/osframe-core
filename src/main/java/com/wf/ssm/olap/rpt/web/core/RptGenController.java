@@ -37,7 +37,7 @@ import com.wf.ssm.olap.rpt.service.core.RptGenService;
  * 生成报表Controller
  *
  * @version 1.0
- * @author 严娜 2015-11-27
+ * @author wangpf 2015-11-27
  * @since JDK 1.6
  */
 @Controller

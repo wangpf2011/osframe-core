@@ -13,7 +13,7 @@ import java.util.UUID;
  * <P>封装各种生成唯一性ID算法的工具类.</P>
  * 
  * @version 1.0
- * @author 赵庆辉 2015-3-12 9:06:26
+ * @author wangpf 2015-3-12 9:06:26
  * @since JDK 1.6
  */
 public class Identities {

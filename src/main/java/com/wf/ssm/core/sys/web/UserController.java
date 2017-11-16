@@ -45,7 +45,7 @@ import com.wf.ssm.core.sys.utils.UserUtils;
  * <P>用户Controller</P>
  * <P>请求路径以"${adminPath}/sys/user"开头</P>
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Controller

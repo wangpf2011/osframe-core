@@ -43,7 +43,7 @@ import com.wf.ssm.common.utils.excel.fieldtype.RoleListType;
 /**
  * <P>sys_user 实体类</P>
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Entity

@@ -17,7 +17,7 @@ import java.util.Map.Entry;
  * +适用于标准原生SQL和HQL<br>
  * </p> 
  * @version 1.0
- * @author 王磊 2015-03-11 12:02:25
+ * @author wangpf 2015-03-11 12:02:25
  * @since JDK 1.6
  */
 public class Parameter extends HashMap<String, Object> {

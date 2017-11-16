@@ -30,7 +30,7 @@ import com.wf.ssm.common.web.CKFinderConfig;
  * <P>一个servlet，查看CKFinder上传的图片</P>
  * 
  * @version 1.0
- * @author 王朋飞  2015-03-12 12:02:25
+ * @author wangpf  2015-03-12 12:02:25
  * @since JDK 1.6
  */
 public class CKFinderFilesServlet extends HttpServlet {

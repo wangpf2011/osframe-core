@@ -25,7 +25,7 @@ import com.wf.ssm.olap.rpt.entity.core.RptCmChildren;
  * <P>子报表模板Service</P>
  *
  * @version 1.0
- * @author 严娜 2015-11-25
+ * @author wangpf 2015-11-25
  * @since JDK 1.6
  */
 @Service

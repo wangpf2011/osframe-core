@@ -24,7 +24,7 @@ import java.util.Set;
  * 自定义Mybatis执行代理类，提供给PaginationMapperRegistry注册类使用.
  * </p>
  *
- * @author 王磊 2015-03-09 11:55:39
+ * @author wangpf 2015-03-09 11:55:39
  * @version 1.0 
  * @since JDK 1.5
  */

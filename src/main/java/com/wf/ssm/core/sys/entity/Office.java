@@ -35,7 +35,7 @@ import com.wf.ssm.common.persistence.IdEntity;
 /**
  * sys_office 机构实体类
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Entity

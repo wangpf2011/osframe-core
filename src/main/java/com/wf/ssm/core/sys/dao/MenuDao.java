@@ -19,7 +19,7 @@ import com.wf.ssm.core.sys.entity.Menu;
  * <P>菜单DAO接口</P>
  * 
  * @version 1.0
- * @author gesong 2015-03-12 00:00:00
+ * @author wangpf 2015-03-12 00:00:00
  * @since JDK 1.6
  */
 @Repository

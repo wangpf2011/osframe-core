@@ -21,7 +21,7 @@ import com.wf.ssm.core.sys.utils.UserUtils;
  * <P>区域Service</P>
  * 
  * @version 1.0
- * @author gesong 2015-03-12 00:00:00
+ * @author wangpf 2015-03-12 00:00:00
  * @since JDK 1.6
  */
 @Service

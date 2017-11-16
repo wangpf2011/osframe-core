@@ -34,7 +34,7 @@ import com.wf.ssm.core.sys.entity.User;
  * <P>报表模板维护Entity</P>
  *
  * @version 1.0
- * @author 严娜 2015-11-10
+ * @author wangpf 2015-11-10
  * @since JDK 1.6
  */
 @Entity

@@ -31,7 +31,7 @@ import org.springframework.web.multipart.MultipartFile;
  * <P>文件操作工具类,实现文件的创建、删除、复制、压缩、解压以及目录的创建、删除、复制、压缩解压等功能</P>
  * 
  * @version 1.0
- * @author 赵庆辉 2015-3-12 9:06:26
+ * @author wangpf 2015-3-12 9:06:26
  * @since JDK 1.6
  */
 public class FileUtils extends org.apache.commons.io.FileUtils {

@@ -18,7 +18,7 @@ import org.apache.commons.lang.time.DateFormatUtils;
  * <P>日期工具类, 继承org.apache.commons.lang.time.DateUtils类</P>
  * 
  * @version 1.0
- * @author 赵庆辉 2015-3-12 9:06:26
+ * @author wangpf 2015-3-12 9:06:26
  * @since JDK 1.6
  */
 public class DateUtils extends org.apache.commons.lang.time.DateUtils {

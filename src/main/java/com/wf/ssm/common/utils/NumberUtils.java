@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
  * <P>线程相关工具类</P>
  * 
  * @version 1.0
- * @author 葛松 2015-06-17 9:06:26
+ * @author wangpf 2015-06-17 9:06:26
  * @since JDK 1.6
  */
 public class NumberUtils {

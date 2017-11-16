@@ -25,7 +25,7 @@ import java.util.Properties;
 /**
  * <P>Mybatis数据库分页拦截器Interceptor,只拦截查询prepare方法</P>
  * @version 1.0
- * @author 王磊 2015-02-09 11:55:39
+ * @author wangpf 2015-02-09 11:55:39
  * @since JDK 1.6
  */
 @Intercepts({

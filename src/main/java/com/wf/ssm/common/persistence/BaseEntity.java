@@ -24,7 +24,7 @@ import com.wf.ssm.core.sys.utils.UserUtils;
  * +封装了登陆用户信息，分页信息，自定义SQL，搜索多个ID共通信息<br>
  * </p> 
  * @version 1.0
- * @author 王磊 2015-03-11 12:02:25
+ * @author wangpf 2015-03-11 12:02:25
  * @since JDK 1.6
  */
 @MappedSuperclass

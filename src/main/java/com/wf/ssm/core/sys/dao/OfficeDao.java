@@ -18,7 +18,7 @@ import com.wf.ssm.core.sys.entity.Office;
 /**
  * 机构DAO接口
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Repository

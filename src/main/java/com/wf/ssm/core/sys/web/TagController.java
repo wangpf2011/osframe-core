@@ -19,7 +19,7 @@ import com.wf.ssm.common.web.BaseController;
  * <P>标签Controller</P>
  * <P>请求路径以"${adminPath}/tag"开头</P>
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Controller

@@ -32,7 +32,7 @@ import java.util.Properties;
  * 提供给PaginationInterceptor和PreparePaginationInterceptor继承
  * </P>
  * @version 1.0
- * @author 王磊 2015-02-09 11:55:39
+ * @author wangpf 2015-02-09 11:55:39
  * @since JDK 1.6
  */
 public abstract class BaseInterceptor implements Interceptor, Serializable {

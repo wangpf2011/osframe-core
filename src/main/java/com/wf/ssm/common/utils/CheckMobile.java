@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
  * <P>检测是否为移动端设备访问</P>
  * 
  * @version 1.0
- * @author 王朋飞 2015年9月29日 下午3:29:13 
+ * @author wangpf 2015年9月29日 下午3:29:13 
  * @since JDK 1.6
  */
 public class CheckMobile {

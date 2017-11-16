@@ -10,7 +10,7 @@ package com.wf.ssm.common.service;
  * <P>Service层公用的Exception, 从由Spring管理事务的函数中抛出时会触发事务回滚</P>
  * 
  * @version 1.0
- * @author 王朋飞  2015-03-12 12:02:25
+ * @author wangpf  2015-03-12 12:02:25
  * @since JDK 1.6
  */
 public class ServiceException extends RuntimeException {

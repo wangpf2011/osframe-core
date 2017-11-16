@@ -23,6 +23,7 @@ import com.wf.ssm.core.sys.utils.UserUtils;
 
 /**
  * Entity支持类
+ * @author wangpf
  * @version 2014-05-16
  */
 public abstract class MyBatisBaseEntity<T> implements Serializable {

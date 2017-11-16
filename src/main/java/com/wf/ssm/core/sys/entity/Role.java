@@ -36,7 +36,7 @@ import com.wf.ssm.common.persistence.IdEntity;
 /**
  * <P>sys_role 角色实体类</P>
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Entity

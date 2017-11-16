@@ -12,7 +12,7 @@ package com.wf.ssm.common.persistence.mybatis.dialect;
  * <P>1，此接口定义出分页部分</P>
  * <P>2，Mybatis根据你选择的“方言”，针对每种数据库，作调整，如生成不同的SQL语句</P>
  * @version 1.0
- * @author 王磊 2015-02-09 11:55:39
+ * @author wangpf 2015-02-09 11:55:39
  * @since JDK 1.6
  */
 public interface Dialect {

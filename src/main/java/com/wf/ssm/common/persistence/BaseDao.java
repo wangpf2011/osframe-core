@@ -69,7 +69,7 @@ import com.wf.ssm.common.utils.StringUtils;
  * +支持HQL CRUD操作<br>
  * +支持DetachedCriteria面向对象 CRUD操作</P>
  * @version 1.0
- * @author 王磊 2015-03-10 12:02:25
+ * @author wangpf 2015-03-10 12:02:25
  * @since JDK 1.6
  */
 public class BaseDao<T> {

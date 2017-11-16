@@ -34,7 +34,7 @@ import com.wf.ssm.common.annotation.Comment;
  * <P>报表查询条件维护Entity</P>
  *
  * @version 1.0
- * @author 严娜 2015-11-10
+ * @author wangpf 2015-11-10
  * @since JDK 1.6
  */
 @Entity

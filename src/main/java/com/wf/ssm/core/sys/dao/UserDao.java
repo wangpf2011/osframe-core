@@ -18,7 +18,7 @@ import com.wf.ssm.core.sys.entity.User;
 /**
  * <P>用户DAO接口</P>
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Repository

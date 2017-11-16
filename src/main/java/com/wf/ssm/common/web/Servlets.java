@@ -27,7 +27,7 @@ import com.wf.ssm.common.utils.Encodes;
  * <P>Http与Servlet工具类</P>
  * 
  * @version 1.0
- * @author 中文姓名 2015-03-13 12:02:25
+ * @author wangpf 2015-03-13 12:02:25
  * @since JDK 1.6
  */
 public class Servlets {

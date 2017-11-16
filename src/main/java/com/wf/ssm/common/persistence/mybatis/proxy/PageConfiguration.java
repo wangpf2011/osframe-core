@@ -15,7 +15,7 @@ import org.apache.ibatis.session.SqlSession;
  * 自定义Mybatis的配置分页，扩展.
  * </p>
  *
- * @author 王磊 2015-03-09 11:55:39
+ * @author wangpf 2015-03-09 11:55:39
  * @version 1.0 
  * @since JDK 1.5
  */

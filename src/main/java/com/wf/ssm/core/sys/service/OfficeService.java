@@ -20,7 +20,7 @@ import com.wf.ssm.core.sys.utils.UserUtils;
 /**
  * 机构Service
  * @version 1.0
- * @author weisu 2015-3-10
+ * @author wangpf 2015-3-10
  * @since JDK 1.6
  */
 @Service

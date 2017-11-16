@@ -9,7 +9,7 @@ import org.apache.shiro.web.tags.PermissionTag;
  *  判断用户是否拥有多个权限中的一个</p>
  *
  * @version 1.0 
- * @author 严娜  2015-03-11 16:00:00
+ * @author wangpf  2015-03-11 16:00:00
  * @since JDK 1.6
  */
 

@@ -16,7 +16,7 @@ import com.wf.ssm.common.utils.Exceptions;
  * 返回ByteSource，可进一步被编码为Hex, Base64或UrlSafeBase64
  * 
  * @version 1.0 
- * @author 严娜  2015-03-12 9:10:00
+ * @author wangpf  2015-03-12 9:10:00
  * @since JDK 1.6
  */
 public class Digests {
