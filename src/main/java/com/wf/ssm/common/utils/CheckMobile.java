@@ -1,9 +1,3 @@
-/*
- * Copyright &copy; 2011-2020 lnint Inc. All right reserved.
- * 
- * 修改信息：【与SVN提交信息一致】
- * @author 王朋飞 2015年9月29日 下午3:29:13 
- */
 package com.wf.ssm.common.utils;
 
 import java.util.regex.Matcher;  

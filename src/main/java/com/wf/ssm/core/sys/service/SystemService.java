@@ -1,9 +1,3 @@
-/*
- * Copyright &copy; 2011-2020 lnint Inc. All right reserved.
- * 
- * 修改信息：【与SVN提交信息一致】
- * A: 新增类 位苏 2015-3-11 12:02:25
- */
 package com.wf.ssm.core.sys.service;
 
 import java.util.ArrayList;
@@ -531,7 +525,7 @@ public class SystemService extends BaseService  {
 	public static boolean printKeyLoadMessage(){
 		StringBuilder sb = new StringBuilder();
 		sb.append("\r\n======================================================================\r\n");
-		sb.append("\r\n    欢迎使用 "+Global.getConfig("productName")+"  - Powered By lnint \r\n");
+		sb.append("\r\n    欢迎使用 "+Global.getConfig("productName")+"  - Powered By wf \r\n");
 		sb.append("\r\n======================================================================\r\n");
 		System.out.println(sb.toString());
 		return true;

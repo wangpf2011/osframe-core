@@ -1,9 +1,3 @@
-/*
- * Copyright &copy; 2011-2020 lnint Inc. All right reserved.
- * 
- * 修改信息：【与SVN提交信息一致】
- * A: 新增类 赵庆辉 2015-3-12 9:06:26
- */
 package com.wf.ssm.common.utils;
 
 import java.io.BufferedWriter;

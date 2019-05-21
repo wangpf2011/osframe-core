@@ -1,9 +1,3 @@
-/*
- * Copyright &copy; 2011-2020 lnint Inc. All right reserved.
- * 
- * 修改信息：【与SVN提交信息一致】
- * A: 新增类 严娜 2015-11-27
- */
 package com.wf.ssm.olap.rpt.dao.core;
 
 import java.util.HashMap;

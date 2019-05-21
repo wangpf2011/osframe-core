@@ -108,7 +108,7 @@ public class Log4jManager {
 	}
 
 	/**
-	 * <p>根据log4j.properties中的定义, 设置项目默认的logger名称, 如com.lnint.jess.</p>
+	 * <p>根据log4j.properties中的定义, 设置项目默认的logger名称.</p>
 	 * @param projectLoggerName 项目默认logger名称
 	 */
 	public void setProjectLoggerName(String projectLoggerName) {

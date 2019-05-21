@@ -1,9 +1,3 @@
-/*
- * Copyright &copy; 2011-2020 lnint Inc. All right reserved.
- * 
- * 修改信息：【与SVN提交信息一致】
- * A: 新增类 位苏 2015-3-11 12:02:25
- */
 package com.wf.ssm.core.sys.dao;
 
 import java.util.Date;

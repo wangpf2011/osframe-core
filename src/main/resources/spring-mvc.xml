@@ -11,7 +11,7 @@
 	<context:property-placeholder ignore-unresolvable="true" location="classpath*:/jess.properties" />
 	
 	<!-- 使用Annotation自动注册Bean,只扫描@Controller -->
-	<context:component-scan base-package="com.lnint.jess,open.core" use-default-filters="false"><!-- base-package 如果多个，用“,”分隔 -->
+	<context:component-scan base-package="com.wf.ssm,open.core" use-default-filters="false"><!-- base-package 如果多个，用“,”分隔 -->
 		<context:include-filter type="annotation" expression="org.springframework.stereotype.Controller"/>
 	</context:component-scan>
 	
@@ -26,7 +26,7 @@
 			<bean class="org.springframework.http.converter.json.MappingJackson2HttpMessageConverter">
                 <property name="prettyPrint" value="true"/>
                 <property name="objectMapper">  
-                    <bean class="com.lnint.jess.common.mapper.JsonMapper"></bean>  
+                    <bean class="com.wf.ssm.common.mapper.JsonMapper"></bean>  
                 </property> 
             </bean>
             <!-- 使用XML格式输出数据 -->
@@ -38,7 +38,7 @@
 				        </property>
 				        <property name="annotatedClasses">
 				            <list>
-				                <value>com.lnint.jess.common.persistence.BaseEntity</value>
+				                <value>com.wf.ssm.common.persistence.BaseEntity</value>
 				            </list>
 				        </property>
 				    </bean>
@@ -47,7 +47,7 @@
 			</bean>
 		</mvc:message-converters>
 		<mvc:argument-resolvers>
-			<bean class="com.lnint.jess.common.web.SecureModelAttributeMethodArgumentResolver">
+			<bean class="com.wf.ssm.common.web.SecureModelAttributeMethodArgumentResolver">
 				<constructor-arg value="false"/>
 			</bean>
 		</mvc:argument-resolvers>
@@ -80,7 +80,7 @@
 
 	<!-- 拦截器配置 :所有的url请求进行拦截-->
 	<mvc:interceptors>
-		<bean class="com.lnint.jess.core.sys.interceptor.LogInterceptor" />
+		<bean class="com.wf.ssm.core.sys.interceptor.LogInterceptor" />
 	</mvc:interceptors>
 	
 	<!-- 支持Shiro对Controller的方法级AOP安全控制 begin-->

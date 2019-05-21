@@ -1,9 +1,3 @@
-/*
- * Copyright &copy; 2011-2020 lnint Inc. All right reserved.
- * 
- * 修改信息：【与SVN提交信息一致】
- * A: 新增类 严娜 2015-11-10
- */
 package com.wf.ssm.olap.rpt.web.core;
 
 import java.io.File;
@@ -495,7 +489,7 @@ public class RptCmController extends BaseController {
 		    model.put("rptCm", rptCm);
 	        Configuration cfg = new Configuration();
 	        try {
-					cfg.setDirectoryForTemplateLoading(new File(RptCmController.class.getResource("/").getPath()+"com/lnint/jess/modules/rpt/web/core/"));
+					cfg.setDirectoryForTemplateLoading(new File(RptCmController.class.getResource("/").getPath()+"com/wf/ssm/modules/rpt/web/core/"));
 					cfg.setObjectWrapper(new DefaultObjectWrapper());
 					cfg.setTemplateExceptionHandler(TemplateExceptionHandler.IGNORE_HANDLER);
 					Template template = cfg.getTemplate("list.ftl","UTF-8");

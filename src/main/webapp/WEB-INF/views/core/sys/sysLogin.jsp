@@ -21,9 +21,9 @@
 			}
 			//
 			$.backstretch([
- 		      "${ctxStatic}/images/lnint_bg_2.jpg", 
- 		      "${ctxStatic}/images/lnint_bg_1.jpg",
- 		      "${ctxStatic}/images/lnint_bg_3.jpg"
+ 		      "${ctxStatic}/images/ssm_bg_2.jpg", 
+ 		      "${ctxStatic}/images/ssm_bg_1.jpg",
+ 		      "${ctxStatic}/images/ssm_bg_3.jpg"
  		  	], {duration: 4800, fade: 2000});
 			$("#loginForm").validate({
 				rules: {
@@ -81,7 +81,7 @@
 		<%String error = (String) request.getAttribute(FormAuthenticationFilter.DEFAULT_ERROR_KEY_ATTRIBUTE_NAME);%>
 		
 		<div id="messageBox" class="alert alert-error <%=error==null?"hide":""%>"><button data-dismiss="alert" class="close">×</button>
-			<label id="loginError" class="error"><%=error==null?"":"com.lnint.jess.core.sys.security.CaptchaException".equals(error)?"验证码错误, 请重试.":"用户或密码错误, 请重试." %></label>
+			<label id="loginError" class="error"><%=error==null?"":"com.wf.ssm.core.sys.security.CaptchaException".equals(error)?"验证码错误, 请重试.":"用户或密码错误, 请重试." %></label>
 		</div>
 		
         <div id="login-wraper">

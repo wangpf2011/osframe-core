@@ -1,9 +1,3 @@
-/*
- * Copyright &copy; 2011-2020 lnint Inc. All right reserved.
- * 
- * 修改信息：【与SVN提交信息一致】
- * A: 新增类 王磊 2015-03-10 12:02:25
- */
 package com.wf.ssm.common.persistence;
 
 import java.io.IOException;

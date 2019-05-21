@@ -41,12 +41,12 @@
 	
 	<!-- 类型别名 -->
 	<typeAliases>
-		<typeAlias alias="Page" type="com.lnint.jess.common.persistence.Page" /><!--分页  -->
+		<typeAlias alias="Page" type="com.wf.ssm.common.persistence.Page" /><!--分页  -->
 	</typeAliases>
 	
 	<!-- 插件配置 -->
 	<plugins>
-		<plugin interceptor="com.lnint.jess.common.persistence.mybatis.interceptor.PaginationInterceptor" />
+		<plugin interceptor="com.wf.ssm.common.persistence.mybatis.interceptor.PaginationInterceptor" />
     </plugins>
 	
 </configuration>

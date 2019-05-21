@@ -1,5 +1,5 @@
 <%@ page contentType="text/html;charset=UTF-8" isErrorPage="true" %>
-<%@ page import="com.lnint.jess.common.beanvalidator.BeanValidators"%>
+<%@ page import="com.wf.ssm.common.beanvalidator.BeanValidators"%>
 <%@ page import="org.slf4j.Logger,org.slf4j.LoggerFactory" %>
 <%@ include file="/WEB-INF/views/include/taglib.jsp"%>
 <%response.setStatus(200);%>
